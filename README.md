@@ -1,26 +1,28 @@
 # Criando um repositório Git/Github da DIO
 Repositório criado para o Desafio de Projeto sobre Git/GitHub da DIO
 ## Passo a passo
- . [Acesse o site do GitHub](https://github.com/login)
+ - [Acesse o site do GitHub](https://github.com/login)
  
- . Entre com o seu usuário e senha ou crie um novo usuário.
+ - Entre com o seu usuário e senha ou crie um novo usuário.
  
- . Clique em **Repositórios**
+ - Clique em **Repositórios**
  
- . Clique em **Novo**
+ - Clique em **Novo**
  
- . Dentro da página com o título **Criar um novo repositório** preencha o **Nome do Repositório**
+ - Dentro da página com o título **Criar um novo repositório** preencha o **Nome do Repositório**
  
- . Na sequencia digite a **Descrição** do repositório
+ - Na sequencia digite a **Descrição** do repositório
  
- . Depois defina como **Público**
+ - Depois defina como **Público**
  
- . Depois selecione **Adicionar um arquivo README**
+ - Depois selecione **Adicionar um arquivo README**
  
- . Por fim clique no botão **Criar repositório**
+ - Por fim clique no botão **Criar repositório**
  
  ## Links Úteis
- [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+  - [GitHub](https://github.com/)
+ 
+ - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
  
  
  
