@@ -5,4 +5,7 @@ Desafio de Projeto sobre Git/GitHub
  
  . Entre com o seu usuário e senha ou crie um novo usuário.
  
+ . Em Repositórios clique e Novo.
+  
+ 
  
