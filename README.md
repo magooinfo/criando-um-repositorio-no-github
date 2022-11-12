@@ -1,2 +1,8 @@
-# criando-um-repositorio-no-github
-Desafio de Projeto sobre como criar um repositório no GitHub
+# Criando um repositório Git/Github da DIO
+Desafio de Projeto sobre Git/GitHub
+## Passo a passo
+ . [Acesse o site do GitHub](https://github.com/login)
+ 
+ . Entre com o seu usuário e senha ou crie um novo usuário.
+ 
+ 
