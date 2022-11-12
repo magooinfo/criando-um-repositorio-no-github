@@ -19,6 +19,8 @@ Repositório criado para o Desafio de Projeto sobre GitHub da DIO
  
  - Por fim clique no botão **Criar repositório**
  
+  - Edite o arquivo **README.md** com as informações sobre esse repositório com a liguagem de marcação Markdown
+ 
  ## Links Úteis
   - [GitHub](https://github.com/)
  
