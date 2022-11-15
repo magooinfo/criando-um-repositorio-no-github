@@ -1,4 +1,4 @@
-# Criando um repositório Github
+# Criando um repositório no Github
 Repositório criado para o Desafio de Projeto sobre GitHub da DIO
 ## Passo a passo
  - [Acesse o site do GitHub](https://github.com/login)
