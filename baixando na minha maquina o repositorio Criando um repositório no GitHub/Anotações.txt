@@ -1,0 +1,12 @@
+# Baixando na minha máquina o repositorio: Criando um repositório no GitHub
+Repositório criado para o Desafio de Projeto sobre GitHub da DIO
+
+## Passo a passo
+
+ - Acesse o repositório: [Criando um repositório no GitHub](https://github.com/magooinfo/criando-um-repositorio-no-github)
+ - Dentro do repositório clique no botão **Código**
+ - Copie o endereço *HTTPS*
+ - Abra no **Windows** o **Windows Explorer** e na sua pasta de trabalho clique com o botão direito do mouse e acione o **Git Bash Here**
+ - Dentro do **Git Bash** digite *git clone*, mais o endereço *HTTPS* e dê o *Enter* para clonar o repositório localmente
+ - Depois digite *cd criando-um-repositorio-no-github* para entrar no repositório
+ - Digite o comando *git status* 
